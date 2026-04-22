@@ -4,8 +4,8 @@
 	process = git-lfs filter-process
 	required = true
 [user]
-	name = andrianIprocurement
-	email = 145632518+andrianIprocurement@users.noreply.github.com
+	name = rianfati
+	email = rianfati@gmail.com
 [core]
 	excludesfile = /Users/rianfati/.gitignore_global
 [difftool "sourcetree"]
